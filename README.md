@@ -1,4 +1,4 @@
-# PLATEAU_DroneNavigation!
+# PLATEAU Drone Navigation!
 国土交通省が公開している[PLATEAU](https://www.mlit.go.jp/plateau/)を基に，ドローンの最短飛行経路を描画するUnityProject． 
 
 A*, Theta*, Lazy Theta* で計算して出力する． 
