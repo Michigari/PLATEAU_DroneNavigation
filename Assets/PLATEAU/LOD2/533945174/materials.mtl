@@ -1,0 +1,9 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl stad0120
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0120.jpg
+
+newmtl stad0137
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0137.jpg
+

@@ -1,0 +1,89 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl stad0471
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0471.jpg
+
+newmtl stad0048
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0048.jpg
+
+newmtl stad0056
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0056.jpg
+
+newmtl stad0258
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0258.jpg
+
+newmtl stad0165
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0165.jpg
+
+newmtl stad0260
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0260.jpg
+
+newmtl stad0053
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0053.jpg
+
+newmtl stad0264
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0264.jpg
+
+newmtl stad0266
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0266.jpg
+
+newmtl stad0257
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0257.jpg
+
+newmtl stad0259
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0259.jpg
+
+newmtl stad0164
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0164.jpg
+
+newmtl stad0268
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0268.jpg
+
+newmtl stad0157
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0157.jpg
+
+newmtl stad0113
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0113.jpg
+
+newmtl stad0160
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0160.jpg
+
+newmtl stad0269
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0269.jpg
+
+newmtl stad0161
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0161.jpg
+
+newmtl stad0162
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0162.jpg
+
+newmtl stad0052
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0052.jpg
+
+newmtl stad0265
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0265.jpg
+
+newmtl stad0267
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0267.jpg
+

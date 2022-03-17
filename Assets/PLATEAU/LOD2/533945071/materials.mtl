@@ -1,0 +1,37 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl stad0183
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0183.jpg
+
+newmtl stad0174
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0174.jpg
+
+newmtl stad0180
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0180.jpg
+
+newmtl stad0175
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0175.jpg
+
+newmtl stad0274
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0274.jpg
+
+newmtl stad0177
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0177.jpg
+
+newmtl stad0178
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0178.jpg
+
+newmtl stad0176
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0176.jpg
+
+newmtl stad0185
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0185.jpg
+

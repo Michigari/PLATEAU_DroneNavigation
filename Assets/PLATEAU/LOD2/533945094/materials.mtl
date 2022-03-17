@@ -1,0 +1,89 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl tbfg2025
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2025.jpg
+
+newmtl tbfg1503
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1503.jpg
+
+newmtl tbfg3058
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg3058.jpg
+
+newmtl tbfg1496
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1496.jpg
+
+newmtl tbfg2028
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2028.jpg
+
+newmtl tbfg1498
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1498.jpg
+
+newmtl tbfg1978
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1978.jpg
+
+newmtl tbfg2033
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2033.jpg
+
+newmtl tbfg1502
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1502.jpg
+
+newmtl tbfg1520
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1520.jpg
+
+newmtl tbfg1505
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1505.jpg
+
+newmtl tbfg1510
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1510.jpg
+
+newmtl tbfg2031
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2031.jpg
+
+newmtl tbfg1506
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1506.jpg
+
+newmtl tbfg2026
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2026.jpg
+
+newmtl tbfg1497
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1497.jpg
+
+newmtl tbfg1512
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1512.jpg
+
+newmtl tbfg2027
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2027.jpg
+
+newmtl tbfg2034
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg2034.jpg
+
+newmtl tbfg1509
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1509.jpg
+
+newmtl tbfg1499
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1499.jpg
+
+newmtl tbfg1507
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\tbfg1507.jpg
+

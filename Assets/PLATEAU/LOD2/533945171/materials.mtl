@@ -1,0 +1,165 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl stad0049
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0049.jpg
+
+newmtl stad0020
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0020.jpg
+
+newmtl stad0036
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0036.jpg
+
+newmtl stad0010
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0010.jpg
+
+newmtl stad0211
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0211.jpg
+
+newmtl stad0284
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0284.jpg
+
+newmtl stad0014
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0014.jpg
+
+newmtl stad0128
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0128.jpg
+
+newmtl stad0472
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0472.jpg
+
+newmtl stad0123
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0123.jpg
+
+newmtl stad0263
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0263.jpg
+
+newmtl stad0012
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0012.jpg
+
+newmtl stad0046
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0046.jpg
+
+newmtl stad0140
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0140.jpg
+
+newmtl stad0125
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0125.jpg
+
+newmtl stad0009
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0009.jpg
+
+newmtl stad0034
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0034.jpg
+
+newmtl stad0006
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0006.jpg
+
+newmtl stad0035
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0035.jpg
+
+newmtl stad0153
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0153.jpg
+
+newmtl stad0022
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0022.jpg
+
+newmtl stad0131
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0131.jpg
+
+newmtl stad0144
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0144.jpg
+
+newmtl stad0262
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0262.jpg
+
+newmtl stad0155
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0155.jpg
+
+newmtl stad0286
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0286.jpg
+
+newmtl stad0127
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0127.jpg
+
+newmtl stad0024
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0024.jpg
+
+newmtl stad0041
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0041.jpg
+
+newmtl stad0149
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0149.jpg
+
+newmtl stad0287
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0287.jpg
+
+newmtl stad0139
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0139.jpg
+
+newmtl stad0027
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0027.jpg
+
+newmtl stad0037
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0037.jpg
+
+newmtl stad0141
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0141.jpg
+
+newmtl stad0013
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0013.jpg
+
+newmtl stad0283
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0283.jpg
+
+newmtl stad0124
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0124.jpg
+
+newmtl stad0158
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0158.jpg
+
+newmtl stad0142
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0142.jpg
+
+newmtl stad0278
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\stad0278.jpg
+
